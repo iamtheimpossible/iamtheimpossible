@@ -6,7 +6,6 @@
 - 💞️ I’m looking to collaborate on new programming(U)Lngs
 - 📫 forwden.j@gmail.com
 ----
-imimpossible.com
 
 [my blog](http://iamtheimpossible.medium.com)
 
