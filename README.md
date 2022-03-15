@@ -7,8 +7,10 @@
 - 📫 forwden.j@gmail.com
 ----
 imimpossible.com
+
 [my blog](http://iamtheimpossible.medium.com)
- ♪[my SoundCloud](https://soundcloud.app.goo.gl/aoThQ)
+
+♪[my SoundCloud](https://soundcloud.app.goo.gl/aoThQ)
 
 <!---
 iamtheimpossible/iamtheimpossible is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
